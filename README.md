@@ -3,10 +3,10 @@
 
 ** NAME **:Kaithala Ritika Soumiaya
 
-** INTERN ID **: 
+** INTERN ID **: CT06DH2552
 
 ** DOMAIN **: SQL
 
-** BATCH DURATION **: JULY st,2025 to AUGUST 15th, 2025
+** BATCH DURATION **: JULY 15th,2025 to AUGUST 30th, 2025
 
 ** MENTOR NAME ** : NEELA SANTHOSH
